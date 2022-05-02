@@ -6,6 +6,24 @@ Polished Pine #69a297
 Teal Blue #50808e
 */
 
+.dropdown {
+  position: relative;
+  display: inline-block
+}
+
+.dropdown-contnet {
+  display: none;
+  position: absolute;
+  background-color: #A3c9A8;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
 
 h1 {
   color: #50808e
@@ -24,8 +42,4 @@ head {
 }
 body {
   background-color: #DDD8C4
-}
-
-h1 {
-  
 }
