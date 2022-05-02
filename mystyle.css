@@ -1,6 +1,31 @@
+/* Color theme
+Bone #DDD8C4
+Eton Blue #A3c9A8
+Green Sheen #84B59f
+Polished Pine #69a297
+Teal Blue #50808e
+*/
+
+
+h1 {
+  color: #50808e
+}
+
+h2 {
+  color: #69a297
+}
+
+p {
+  color: black
+}
+
 head {
   background-color: #DDD8C4
 }
 body {
   background-color: #DDD8C4
+}
+
+h1 {
+  
 }
