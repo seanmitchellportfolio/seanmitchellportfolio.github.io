@@ -1,1 +1,0 @@
-# seanmitchellportfolio.github.io
